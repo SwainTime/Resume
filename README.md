@@ -2,8 +2,8 @@
 
 Hi, I'm Melvin Abibula, a 2nd year Computer Science and Engineering student at Delft University of Technology 
 
-- 📄 [CV](./cv.pdf)
-- ✉️ [Cover Letter (template)](./cover-letter.pdf) — generic version; happy to tailor for a specific role on request
-- 🔗 [LinkedIn](link) · [Portfolio](link) · [Email](mailto:you@email.com)
+- 📄 [CV](<CV - Melvin Abibula.pdf>)
+- ✉️ [Cover Letter (template)](<Cover Letter - Melvin Abibula.pdf>) — generic version
+- 🔗 [LinkedIn](https://www.linkedin.com/in/melvin-abibula-85aa86301/) · [Portfolio](https://github.com/SwainTime) · [Email](abibula.melvin@gmail.com)
 
 Last updated: August 2026
